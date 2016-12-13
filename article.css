@@ -19,6 +19,12 @@ article {
 article span a {
     color: #666;
 }
+article span a::before {
+    font-family: FontAwesome;
+    content: '\f07b';
+    margin-right: 5px;
+    width: 13px;
+}
 article span {
     font: 12px/18px '微软雅黑','黑体','文泉驿正黑体','sans-serif';
     color: #666;
