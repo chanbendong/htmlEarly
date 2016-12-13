@@ -1,0 +1,37 @@
+article h2 a,article h2 a:hover{
+    font: 36px/30px '微软雅黑','黑体','文泉驿正黑体','sans-serif';
+}
+article h2 a {
+
+    color: rgb(28, 106, 176);
+}
+article h2 a:hover {
+    color: black;
+}
+article h2 {
+    margin-bottom: 8px;
+}
+article {
+    padding: 40px;
+    background: white;
+    margin-bottom: 20px;
+}
+article span a {
+    color: #666;
+}
+article span {
+    font: 12px/18px '微软雅黑','黑体','文泉驿正黑体','sans-serif';
+    color: #666;
+}
+article div {
+    margin-bottom: 40px;
+}
+article p {
+    font: 15px/22.5px '宋体','新宋','sans-serif';
+}
+
+#pager {
+    width: 805px;
+    height: 25px;
+    font: 17px/22.5px '微软雅黑','黑体','文泉驿正黑体','sans-serif';
+}
